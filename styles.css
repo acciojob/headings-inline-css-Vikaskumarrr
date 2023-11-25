@@ -1,1 +1,37 @@
 /*  your css code here. If applicable */
+#p1{
+	font-size: 60px;
+	font-family: 'Helvetica',Sans-serif;
+	font-weight: bold;
+	color:#2a7ae2;
+}
+#p2{
+	font-size: 50px;
+	font-family: 'Helvetica',Sans-serif;
+	font-weight: bold;
+	color:#f44336;
+}
+#p3{
+	font-size: 40px;
+	font-family: 'Helvetica',Sans-serif;
+	font-weight: bold;
+	color:#4caf50;
+}
+#p4{
+	font-size: 35px;
+	font-family: 'Helvetica',Sans-serif;
+	font-weight: bold;;
+	color:#ff9800;
+}
+#p5{
+	font-size: 30px;
+	font-family: 'Helvetica',Sans-serif;
+	font-weight: bold;
+	color:#607d8b;
+}
+#p6{
+	font-size: 20px;
+	font-family: 'Helvetica',Sans-serif;
+      font-weight: bold;
+	color:#ffeb3b;
+}
